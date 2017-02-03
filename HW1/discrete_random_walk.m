@@ -5,8 +5,8 @@ N = 1000; % number of objects
 X = zeros(N,1); % initial position
 
 
-lambda = 0.1; % Probability of movement
-M = 100;  % number of time steps
+lambda = 0.25; % Probability of movement
+M = 1000;  % number of time steps
 XS = zeros(N,M);
 c = [lambda,2*lambda,1];
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.12)  2 FEB 2017 13:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.12)  3 FEB 2017 14:52
 entering extended mode
 **Hw01.tex
 ("C:\Users\Justin\Desktop\Spring 2017\Spatial-Processes-in-Biology\HW1\Hw01.tex
@@ -268,29 +268,38 @@ Package pdftex.def Info: bestfit.png used on input line 30.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
  <C:/Users/Justin/Desktop/Spring 2017/Spatial-Processes-in-Biology/HW1/pureplot
-.png (PNG copy)>] [2 <C:/Users/Justin/Desktop/Spring 2017/Spatial-Processes-in-
-Biology/HW1/bestfit.png (PNG copy)>]
+.png (PNG copy)>]
+<best.png, id=15, 421.575pt x 316.18124pt>
+File: best.png Graphic file (type png)
+ <use best.png>
+Package pdftex.def Info: best.png used on input line 36.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+ [2 <C:/Users/Justin/Desktop/Spring 2017/Spatial-Processes-in-Biology/HW1/bestf
+it.png (PNG copy)>]
+[3 <C:/Users/Justin/Desktop/Spring 2017/Spatial-Processes-in-Biology/HW1/best.p
+ng (PNG copy)>] [4] [5]
 ("C:\Users\Justin\Desktop\Spring 2017\Spatial-Processes-in-Biology\HW1\Hw01.aux
 ") ) 
 Here is how much of TeX's memory you used:
- 2692 strings out of 493921
- 34298 string characters out of 3147279
- 94101 words of memory out of 3000000
- 5975 multiletter control sequences out of 15000+200000
+ 2697 strings out of 493921
+ 34357 string characters out of 3147279
+ 101101 words of memory out of 3000000
+ 5979 multiletter control sequences out of 15000+200000
  5647 words of font info for 23 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,10n,43p,280b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,11n,43p,339b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmsy7.pfb>
-Output written on Hw01.pdf (2 pages, 111844 bytes).
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Hw01.pdf (5 pages, 166672 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
